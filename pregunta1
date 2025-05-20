@@ -65,4 +65,48 @@ El mantenimiento depende del contrato con el proveedor.
 
 Las actualizaciones suelen ser específicas y negociadas.
 
+                     Costos Altos de Pruebas en Software Genérico
+Causas de los Costos Elevados
+Cobertura compleja:
+
+Compatibilidad con múltiples entornos (SO, dispositivos, navegadores).
+
+Soporte para diversos casos de uso (idiomas, regulaciones, accesibilidad).
+
+Estándares de calidad exigentes:
+
+Fallos afectan a millones de usuarios → daño reputacional.
+
+Necesidad de pruebas exhaustivas (regresión, seguridad, estrés).
+
+Mantenimiento y escalabilidad:
+
+Actualizaciones frecuentes requieren revalidar funcionalidades.
+
+Automatización avanzada (herramientas costosas como Selenium Grid).
+
+Diversidad de usuarios:
+
+Pruebas de usabilidad y localización (ej: A/B testing, traducciones).
+
+Cumplimiento normativo:
+
+Certificaciones (GDPR, HIPAA) y documentación rigurosa.
+
+Impacto en el Desarrollo
+Arquitectura modular: Para aislar fallos y facilitar pruebas.
+
+CI/CD: Integración de pruebas automáticas en cada etapa (Jenkins, GitHub Actions).
+
+Trade-offs: Retrasar lanzamientos para garantizar calidad (ej: programas beta como Windows Insider).
+
+Inversión en automatización: Alto costo inicial, pero reduce gastos a largo plazo.
+
+Estrategias de testing:
+
+Pruebas en fases (unitarias → aceptación).
+
+Lanzamientos graduales ("canary releases").
+
+
 

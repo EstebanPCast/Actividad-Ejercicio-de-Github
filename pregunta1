@@ -1,0 +1,68 @@
+Las principales diferencias entre un producto de software genérico y un software personalizado radican en su propósito, desarrollo, público objetivo y gestión. A continuación, se describen estas diferencias y sus implicaciones:
+
+1. Propósito y público objetivo
+Software genérico:
+Está diseñado para un mercado amplio. Se desarrolla con funcionalidades que pueden satisfacer a muchos usuarios o empresas.
+Ejemplo: Microsoft Word, Excel, navegadores web, sistemas ERP comerciales.
+
+Software personalizado:
+Está diseñado para satisfacer necesidades específicas de un cliente o una organización concreta.
+Ejemplo: Un sistema de gestión interna hecho a medida para un hospital o una empresa logística.
+
+2. Desarrollo y diseño
+Software genérico:
+
+Se desarrolla sin conocer a un cliente específico.
+
+Enfatiza la escalabilidad, flexibilidad y configurabilidad.
+
+El diseño suele ser más complejo porque debe cubrir múltiples escenarios de uso.
+
+Software personalizado:
+
+Se desarrolla con base en requisitos específicos del cliente.
+
+Suele tener un alcance más definido y funcionalidades limitadas al caso del cliente.
+
+Se puede optimizar para un entorno o flujo de trabajo particular.
+
+3. Costos y financiación
+Software genérico:
+
+El coste se distribuye entre muchos compradores.
+
+El desarrollador asume los costos iniciales de desarrollo, esperando recuperar la inversión con las ventas.
+
+Software personalizado:
+
+El cliente financia el proyecto.
+
+Costos más altos por usuario, pero adaptado completamente a las necesidades.
+
+4. Tiempo de desarrollo
+Software genérico:
+
+Mayor tiempo de desarrollo inicial, ya que requiere planificación para una base de usuarios amplia.
+
+Se mejora y actualiza constantemente.
+
+Software personalizado:
+
+Generalmente, tiempos más cortos.
+
+El desarrollo puede ser más ágil, pero también más susceptible a cambios de requerimientos.
+
+5. Mantenimiento y evolución
+Software genérico:
+
+Actualizaciones periódicas para todos los usuarios.
+
+Se desarrollan nuevas versiones según tendencias del mercado y feedback general.
+
+Software personalizado:
+
+El mantenimiento depende del contrato con el proveedor.
+
+Las actualizaciones suelen ser específicas y negociadas.
+
+

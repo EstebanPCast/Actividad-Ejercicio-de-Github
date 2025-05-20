@@ -1,0 +1,18 @@
+2 Describa los cuatro atributos importantes que debe tener todo producto de software. Sugiera además cuatro atributos adicionales que podrían ser significativos para productos  específicos.
+
+respuesta:
+
+Mantenibilidad : El software debe escribirse de tal forma que pueda evolucionar para cumplir las necesida- des de cambio de los clientes. Éste es un atributo crítico debido a que el cambio en el soft- ware es una consecuencia inevitable de un cambio en el entomo de negocios.
+
+Confiabilidad : La confiabilidad del software tiene un gran número de caracteristicas, incluyendo la fiabili dad, protección y seguridad. El software confiable no debe causar daños fisicos o económicos en el caso de una falla del sistema.
+
+Eficiencia : El software no debe hacer que se malgasten los recursos del sistema, como la memoria y los
+ciclos de procesamiento. Por lo tanto, la eficiencia incluye tiempos de respuesta y de proce samiento, utilización de la memoria, etcétera.
+
+Usabilidad : El software debe ser fácil de utilizar, sin esfuerzo adicional, por el usuario para quien está di- señado. Esto significa que debe tener una interfaz de usuario apropiada y una documentación adecuada.
+
+
+
+
+
+
